@@ -1,1 +1,10 @@
-
+{
+  "version": "1.0.0",
+  "files": [
+    {
+      "path": "mods/test.txt",
+      "hash": "dummyhash1",
+      "url": "https://raw.githubusercontent.com/kravexq/antigravity-cdn/main/mods/test.txt"
+    }
+  ]
+}
