@@ -3,7 +3,7 @@
   "files": [
     {
       "path": "mods/test.txt",
-      "hash": "dummyhash1",
+      "hash": "test",
       "url": "https://raw.githubusercontent.com/kravexq/antigravity-cdn/main/mods/test.txt"
     }
   ]
